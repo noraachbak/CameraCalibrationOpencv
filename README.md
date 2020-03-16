@@ -1,4 +1,4 @@
-# CameraCalibrationOpencv
+# RemveDistortionOpencv
 
 Camera Calibration Using OpenCV
 
